@@ -71,159 +71,116 @@ sravya = {
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div align="left">
 
-<!-- Languages -->
+### 💻 Languages
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DFE0?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 <br/><br/>
 
-<!-- Backend -->
+### 📊 Data Cleaning & Processing
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Cleaning-2E8B57?style=for-the-badge"/>
+
+<br/><br/>
+
+### 🤖 Machine Learning
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Modeling-4B0082?style=for-the-badge"/>
+
+<br/><br/>
+
+### 📊 Data Visualization
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/EDA-0B3D91?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+<br/><br/>
+
+### 🧠 Backend
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 
 <br/><br/>
 
-<!-- Data / ML -->
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
+### 🗄️ Database
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 <br/><br/>
 
-<!-- Visualization -->
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Data%20Visualization-0B3D91?style=for-the-badge"/>
-
-<br/><br/>
-
-<!-- Tools -->
-<img src="https://img.shields.io/badge/Git-FF4B4B?style=for-the-badge&logo=git&logoColor=white"/>
+### 🧰 Tools
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
 </div>
 
-
 ## 🚀 Featured Projects
 
-<div align="center">
+<div align="left">
 
-<!-- PROJECT 1 -->
-<table width="85%">
-<tr>
-<td style="border:1px solid #30363d; border-radius:16px; padding:22px; background:#0d1117; text-align:center;">
+---
 
-<h2>📧 Fake Email Detection using NLP</h2>
+### 📧 Fake Email Detection (NLP)
 
-<p style="color:#58a6ff;">
-NLP-based spam detection system that classifies emails using machine learning and text processing techniques.
-</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
-<p style="color:#7ee787;">
-Python • NLP • Scikit-learn • Machine Learning
-</p>
+**Description:**  
+NLP-based spam detection system that classifies emails as fake or real using machine learning models and text preprocessing.
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180"/>
+---
 
-</td>
-</tr>
-</table>
+### 👥 Employee Attrition Prediction
 
-<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-<!-- PROJECT 2 -->
-<table width="85%">
-<tr>
-<td style="border:1px solid #30363d; border-radius:16px; padding:22px; background:#0d1117; text-align:center;">
+**Description:**  
+Predictive HR analytics model to analyze employee attrition and generate business insights using machine learning and dashboards.
 
-<h2>👥 Employee Attrition Prediction</h2>
+---
 
-<p style="color:#58a6ff;">
-Predictive analytics model to analyze employee attrition with business insights and dashboards.
-</p>
+### 🩺 AI Symptom Checker
 
-<p style="color:#7ee787;">
-Python • XGBoost • Power BI • Data Analytics
-</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/ML-4B0082?style=for-the-badge"/>
 
-<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="180"/>
+**Description:**  
+AI-based healthcare system that predicts possible diseases based on user symptoms using trained ML models.
 
-</td>
-</tr>
-</table>
+---
 
-<br/>
+### 📈 Fortune 500 Analysis
 
-<!-- PROJECT 3 -->
-<table width="85%">
-<tr>
-<td style="border:1px solid #30363d; border-radius:16px; padding:22px; background:#0d1117; text-align:center;">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/EDA-0B3D91?style=for-the-badge"/>
 
-<h2>🩺 AI Symptom Checker</h2>
+**Description:**  
+Performed data analysis on Fortune 500 companies to extract revenue trends, profit insights, and business patterns.
 
-<p style="color:#58a6ff;">
-AI-powered healthcare system that predicts diseases based on symptoms using machine learning.
-</p>
+---
 
-<p style="color:#7ee787;">
-Python • Flask • Machine Learning • API Integration
-</p>
+### 🔍 Ecommerce Fraud Analysis
 
-<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="180"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-2E8B57?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Fraud%20Detection-DC143C?style=for-the-badge"/>
 
-</td>
-</tr>
-</table>
+**Description:**  
+SQL-based fraud detection system identifying suspicious transactions and analyzing fraud patterns in ecommerce data.
 
-<br/>
-
-<!-- PROJECT 4 -->
-<table width="85%">
-<tr>
-<td style="border:1px solid #30363d; border-radius:16px; padding:22px; background:#0d1117; text-align:center;">
-
-<h2>📈 Fortune 500 Analysis</h2>
-
-<p style="color:#58a6ff;">
-Business intelligence analysis to extract insights from Fortune 500 companies using data visualization.
-</p>
-
-<p style="color:#7ee787;">
-Python • Power BI • EDA • Data Visualization
-</p>
-
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="180"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- PROJECT 5 -->
-<table width="85%">
-<tr>
-<td style="border:1px solid #30363d; border-radius:16px; padding:22px; background:#0d1117; text-align:center;">
-
-<h2>🔍 Ecommerce Fraud Analysis</h2>
-
-<p style="color:#58a6ff;">
-SQL-based fraud detection system identifying suspicious transactions and fraud patterns.
-</p>
-
-<p style="color:#7ee787;">
-SQL • Data Analytics • Fraud Detection
-</p>
-
-<img src="https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif" width="180"/>
-
-</td>
-</tr>
-</table>
+---
 
 </div>
 <!--  GITHUB STATS  -->
