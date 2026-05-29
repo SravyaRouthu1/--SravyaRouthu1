@@ -69,38 +69,66 @@ sravya = {
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-## 🛠️ Tech Stack
+<!-- Languages -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-- **Languages:** Python, JavaScript, HTML, CSS  
-- **Frontend:** React.js, Tailwind CSS  
-- **Backend:** Node.js, Flask  
-- **Database:** MongoDB, MySQL  
-- **Machine Learning:** NumPy, Pandas, Scikit-learn  
-- **Tools:** Git, GitHub, VS Code, Postman  
-<div>
+<br/><br/>
 
-<!--  FEATURED PROJECTS  -->
+<!-- Frontend -->
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+
+<br/><br/>
+
+<!-- Backend -->
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+
+<br/><br/>
+
+<!-- Database -->
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<br/><br/>
+
+<!-- ML -->
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<br/><br/>
+
+<!-- Tools -->
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+</div>
+
+
+
 
 ## 🚀 Featured Projects
 
-<br>
-
-<div>
+<div align="center">
 
 <table width="100%">
 <tr>
-<td style="border:1px solid #30363d; border-radius:20px; padding:28px; background-color:#0d1117;">
+<td style="border:1px solid #30363d; border-radius:20px; padding:28px; background:#0d1117;">
 
 <h2>📧 Fake Email Detection using NLP</h2>
 
 <p style="color:#58a6ff;">
-Built an intelligent NLP-based spam detection system that identifies fake and suspicious emails using machine learning classifiers and text processing techniques.
+Built an intelligent NLP-based spam detection system that classifies emails as spam or not spam using machine learning and text processing techniques.
 </p>
 
 <br>
@@ -109,22 +137,22 @@ Built an intelligent NLP-based spam detection system that identifies fake and su
 Python • NLP • Scikit-learn • Machine Learning
 </p>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 
 </td>
 </tr>
 </table>
 
-<br><br>
+<br/>
 
 <table width="100%">
 <tr>
-<td style="border:1px solid #30363d; border-radius:20px; padding:28px; background-color:#0d1117;">
+<td style="border:1px solid #30363d; border-radius:20px; padding:28px; background:#0d1117;">
 
-<h2>👥 Employee Attrition Project with XGBoost</h2>
+<h2>👥 Employee Attrition Prediction</h2>
 
 <p style="color:#58a6ff;">
-Developed a predictive analytics solution for employee attrition and created interactive HR dashboards for workforce insights and decision-making.
+Developed a predictive analytics model to analyze employee attrition and built insights using data visualization dashboards.
 </p>
 
 <br>
@@ -133,22 +161,22 @@ Developed a predictive analytics solution for employee attrition and created int
 Python • XGBoost • Power BI • Data Analytics
 </p>
 
-<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="220"/>
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="200"/>
 
 </td>
 </tr>
 </table>
 
-<br><br>
+<br/>
 
 <table width="100%">
 <tr>
-<td style="border:1px solid #30363d; border-radius:20px; padding:28px; background-color:#0d1117;">
+<td style="border:1px solid #30363d; border-radius:20px; padding:28px; background:#0d1117;">
 
 <h2>🩺 AI Symptom Checker</h2>
 
 <p style="color:#58a6ff;">
-AI-powered healthcare web application that analyzes symptoms and predicts possible conditions with precautionary recommendations.
+AI-powered system that analyzes symptoms and predicts possible diseases with precautionary recommendations.
 </p>
 
 <br>
@@ -157,22 +185,22 @@ AI-powered healthcare web application that analyzes symptoms and predicts possib
 Python • Flask • Machine Learning • API Integration
 </p>
 
-<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="220"/>
+<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="200"/>
 
 </td>
 </tr>
 </table>
 
-<br><br>
+<br/>
 
 <table width="100%">
 <tr>
-<td style="border:1px solid #30363d; border-radius:20px; padding:28px; background-color:#0d1117;">
+<td style="border:1px solid #30363d; border-radius:20px; padding:28px; background:#0d1117;">
 
 <h2>📈 Fortune 500 Companies Analysis</h2>
 
 <p style="color:#58a6ff;">
-Performed business intelligence analysis on Fortune 500 companies to uncover revenue trends, profit insights, and industry performance patterns.
+Performed business intelligence analysis to extract insights from Fortune 500 companies using data analytics and visualization.
 </p>
 
 <br>
@@ -181,41 +209,37 @@ Performed business intelligence analysis on Fortune 500 companies to uncover rev
 Python • Power BI • EDA • Data Visualization
 </p>
 
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="220"/>
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200"/>
 
 </td>
 </tr>
 </table>
 
-<br><br>
+<br/>
 
 <table width="100%">
 <tr>
-<td style="border:1px solid #30363d; border-radius:20px; padding:28px; background-color:#0d1117;">
+<td style="border:1px solid #30363d; border-radius:20px; padding:28px; background:#0d1117;">
 
 <h2>🔍 Ecommerce Fraud Analysis</h2>
 
 <p style="color:#58a6ff;">
-SQL-based fraud detection analysis identifying suspicious transactions, fraud patterns, and high-risk merchant behavior.
+SQL-based fraud detection system identifying suspicious transactions and analyzing fraud patterns.
 </p>
 
 <br>
 
 <p style="color:#7ee787;">
-SQL • Data Analytics • Fraud Detection 
+SQL • Data Analytics • Fraud Detection
 </p>
 
-<img src="https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif" width="220"/>
+<img src="https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif" width="200"/>
 
 </td>
 </tr>
 </table>
 
 </div>
-
-<br>
-
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%">
 <!--  GITHUB STATS  -->
 
 
