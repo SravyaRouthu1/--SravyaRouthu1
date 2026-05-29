@@ -75,69 +75,59 @@ sravya = {
 
 <!-- Languages -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-<br/><br/>
-
-<!-- Frontend -->
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DFE0?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 <br/><br/>
 
 <!-- Backend -->
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 
 <br/><br/>
 
-<!-- Database -->
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<br/><br/>
-
-<!-- ML -->
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<!-- Data / ML -->
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
+
+<br/><br/>
+
+<!-- Visualization -->
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-0B3D91?style=for-the-badge"/>
 
 <br/><br/>
 
 <!-- Tools -->
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-FF4B4B?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
 </div>
-
-
 
 
 ## 🚀 Featured Projects
 
 <div align="center">
 
-<table width="100%">
+<!-- PROJECT 1 -->
+<table width="85%">
 <tr>
-<td style="border:1px solid #30363d; border-radius:20px; padding:28px; background:#0d1117;">
+<td style="border:1px solid #30363d; border-radius:16px; padding:22px; background:#0d1117; text-align:center;">
 
 <h2>📧 Fake Email Detection using NLP</h2>
 
 <p style="color:#58a6ff;">
-Built an intelligent NLP-based spam detection system that classifies emails as spam or not spam using machine learning and text processing techniques.
+NLP-based spam detection system that classifies emails using machine learning and text processing techniques.
 </p>
-
-<br>
 
 <p style="color:#7ee787;">
 Python • NLP • Scikit-learn • Machine Learning
 </p>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180"/>
 
 </td>
 </tr>
@@ -145,23 +135,22 @@ Python • NLP • Scikit-learn • Machine Learning
 
 <br/>
 
-<table width="100%">
+<!-- PROJECT 2 -->
+<table width="85%">
 <tr>
-<td style="border:1px solid #30363d; border-radius:20px; padding:28px; background:#0d1117;">
+<td style="border:1px solid #30363d; border-radius:16px; padding:22px; background:#0d1117; text-align:center;">
 
 <h2>👥 Employee Attrition Prediction</h2>
 
 <p style="color:#58a6ff;">
-Developed a predictive analytics model to analyze employee attrition and built insights using data visualization dashboards.
+Predictive analytics model to analyze employee attrition with business insights and dashboards.
 </p>
-
-<br>
 
 <p style="color:#7ee787;">
 Python • XGBoost • Power BI • Data Analytics
 </p>
 
-<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="180"/>
 
 </td>
 </tr>
@@ -169,23 +158,22 @@ Python • XGBoost • Power BI • Data Analytics
 
 <br/>
 
-<table width="100%">
+<!-- PROJECT 3 -->
+<table width="85%">
 <tr>
-<td style="border:1px solid #30363d; border-radius:20px; padding:28px; background:#0d1117;">
+<td style="border:1px solid #30363d; border-radius:16px; padding:22px; background:#0d1117; text-align:center;">
 
 <h2>🩺 AI Symptom Checker</h2>
 
 <p style="color:#58a6ff;">
-AI-powered system that analyzes symptoms and predicts possible diseases with precautionary recommendations.
+AI-powered healthcare system that predicts diseases based on symptoms using machine learning.
 </p>
-
-<br>
 
 <p style="color:#7ee787;">
 Python • Flask • Machine Learning • API Integration
 </p>
 
-<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="180"/>
 
 </td>
 </tr>
@@ -193,23 +181,22 @@ Python • Flask • Machine Learning • API Integration
 
 <br/>
 
-<table width="100%">
+<!-- PROJECT 4 -->
+<table width="85%">
 <tr>
-<td style="border:1px solid #30363d; border-radius:20px; padding:28px; background:#0d1117;">
+<td style="border:1px solid #30363d; border-radius:16px; padding:22px; background:#0d1117; text-align:center;">
 
-<h2>📈 Fortune 500 Companies Analysis</h2>
+<h2>📈 Fortune 500 Analysis</h2>
 
 <p style="color:#58a6ff;">
-Performed business intelligence analysis to extract insights from Fortune 500 companies using data analytics and visualization.
+Business intelligence analysis to extract insights from Fortune 500 companies using data visualization.
 </p>
-
-<br>
 
 <p style="color:#7ee787;">
 Python • Power BI • EDA • Data Visualization
 </p>
 
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="180"/>
 
 </td>
 </tr>
@@ -217,23 +204,22 @@ Python • Power BI • EDA • Data Visualization
 
 <br/>
 
-<table width="100%">
+<!-- PROJECT 5 -->
+<table width="85%">
 <tr>
-<td style="border:1px solid #30363d; border-radius:20px; padding:28px; background:#0d1117;">
+<td style="border:1px solid #30363d; border-radius:16px; padding:22px; background:#0d1117; text-align:center;">
 
 <h2>🔍 Ecommerce Fraud Analysis</h2>
 
 <p style="color:#58a6ff;">
-SQL-based fraud detection system identifying suspicious transactions and analyzing fraud patterns.
+SQL-based fraud detection system identifying suspicious transactions and fraud patterns.
 </p>
-
-<br>
 
 <p style="color:#7ee787;">
 SQL • Data Analytics • Fraud Detection
 </p>
 
-<img src="https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif" width="180"/>
 
 </td>
 </tr>
