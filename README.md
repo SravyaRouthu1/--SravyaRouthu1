@@ -68,6 +68,8 @@ sravya = {
 </td>
 </tr>
 </table>
+<td width="32%" valign="top" align="center" style="border:1px solid #30363d;border-radius:10px;padding:16px;background:#0d1117">
+
 
 ## 🛠️ Tech Stack
 
@@ -120,6 +122,9 @@ sravya = {
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
 </div>
+
+<td width="32%" valign="top" align="center" style="border:1px solid #30363d;border-radius:10px;padding:16px;background:#0d1117">
+
 
 ## 🚀 Featured Projects
 
