@@ -75,35 +75,14 @@ sravya = {
 
 <div align="center">
 
-<br/>
-### 💻 Languages
-![Python](https://skillicons.dev/icons?i=python)
-![MySQL](https://skillicons.dev/icons?i=mysql)
+## 🛠️ Tech Stack
 
-<br/>
-
-### 📊 Data Analytics & Visualization
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-<br/>
-
-### 🤖 Machine Learning & AI
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-<br/>
-
-### 🌐 Web & Tools
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
+- **Languages:** Python, JavaScript, HTML, CSS  
+- **Frontend:** React.js, Tailwind CSS  
+- **Backend:** Node.js, Flask  
+- **Database:** MongoDB, MySQL  
+- **Machine Learning:** NumPy, Pandas, Scikit-learn  
+- **Tools:** Git, GitHub, VS Code, Postman  
 <!--  FEATURED PROJECTS  -->
 
 ## 🚀 Featured Projects
@@ -118,17 +97,17 @@ sravya = {
 
 <h2>📧 Fake Email Detection using NLP</h2>
 
-<p>
+<p style="color:#58a6ff;">
 Built an intelligent NLP-based spam detection system that identifies fake and suspicious emails using machine learning classifiers and text processing techniques.
 </p>
 
 <br>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<p style="color:#7ee787;">
+Python • NLP • Scikit-learn • Machine Learning
+</p>
 
-<img src="https://img.shields.io/badge/NLP-FF6F61?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220"/>
 
 </td>
 </tr>
@@ -140,19 +119,19 @@ Built an intelligent NLP-based spam detection system that identifies fake and su
 <tr>
 <td style="border:1px solid #30363d; border-radius:20px; padding:28px; background-color:#0d1117;">
 
-<h2>👥 Employee Attiretion Project with XGBoost</h2>
+<h2>👥 Employee Attrition Project with XGBoost</h2>
 
-<p>
+<p style="color:#58a6ff;">
 Developed a predictive analytics solution for employee attrition and created interactive HR dashboards for workforce insights and decision-making.
 </p>
 
 <br>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<p style="color:#7ee787;">
+Python • XGBoost • Power BI • Data Analytics
+</p>
 
-<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="220"/>
 
 </td>
 </tr>
@@ -166,17 +145,17 @@ Developed a predictive analytics solution for employee attrition and created int
 
 <h2>🩺 AI Symptom Checker</h2>
 
-<p>
-AI-powered healthcare web application that analyzes symptoms and predicts possible conditions while providing precautionary suggestions.
+<p style="color:#58a6ff;">
+AI-powered healthcare web application that analyzes symptoms and predicts possible conditions with precautionary recommendations.
 </p>
 
 <br>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<p style="color:#7ee787;">
+Python • Flask • Machine Learning • API Integration
+</p>
 
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Machine%20Learning-FF4B4B?style=for-the-badge"/>
+<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="220"/>
 
 </td>
 </tr>
@@ -190,17 +169,17 @@ AI-powered healthcare web application that analyzes symptoms and predicts possib
 
 <h2>📈 Fortune 500 Companies Analysis</h2>
 
-<p>
-Performed business intelligence analysis on Fortune 500 companies to uncover revenue trends, profit insights, and industry-level performance using dashboards and visual analytics.
+<p style="color:#58a6ff;">
+Performed business intelligence analysis on Fortune 500 companies to uncover revenue trends, profit insights, and industry performance patterns.
 </p>
 
 <br>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<p style="color:#7ee787;">
+Python • Power BI • EDA • Data Visualization
+</p>
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/EDA-F39C12?style=for-the-badge"/>
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="220"/>
 
 </td>
 </tr>
@@ -214,17 +193,17 @@ Performed business intelligence analysis on Fortune 500 companies to uncover rev
 
 <h2>🔍 Ecommerce Fraud Analysis</h2>
 
-<p>
-SQL-based fraud detection analysis project focused on identifying suspicious transactions, fraud trends, and high-risk merchant activities through data analytics.
+<p style="color:#58a6ff;">
+SQL-based fraud detection analysis identifying suspicious transactions, fraud patterns, and high-risk merchant behavior.
 </p>
 
 <br>
 
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<p style="color:#7ee787;">
+SQL • Data Analytics • Fraud Detection • Reporting
+</p>
 
-<img src="https://img.shields.io/badge/Data%20Analytics-00C7B7?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Fraud%20Detection-FF4B4B?style=for-the-badge"/>
+<img src="https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif" width="220"/>
 
 </td>
 </tr>
@@ -234,8 +213,7 @@ SQL-based fraud detection analysis project focused on identifying suspicious tra
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%">
 <!--  GITHUB STATS  -->
 
 
@@ -276,7 +254,7 @@ SQL-based fraud detection analysis project focused on identifying suspicious tra
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="42"/>
 </a>
 &nbsp;
-<a href="mailto:sravyarouthu@email.com">
+<a href="mailto:sravyarouthu727@email.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="42"/>
 </a>
 
