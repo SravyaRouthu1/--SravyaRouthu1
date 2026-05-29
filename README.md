@@ -83,13 +83,15 @@ sravya = {
 - **Database:** MongoDB, MySQL  
 - **Machine Learning:** NumPy, Pandas, Scikit-learn  
 - **Tools:** Git, GitHub, VS Code, Postman  
+<div>
+
 <!--  FEATURED PROJECTS  -->
 
 ## 🚀 Featured Projects
 
 <br>
 
-<div align="center">
+<div>
 
 <table width="100%">
 <tr>
@@ -200,7 +202,7 @@ SQL-based fraud detection analysis identifying suspicious transactions, fraud pa
 <br>
 
 <p style="color:#7ee787;">
-SQL • Data Analytics • Fraud Detection • Reporting
+SQL • Data Analytics • Fraud Detection 
 </p>
 
 <img src="https://media.giphy.com/media/5k5vZwRFZR5aZeniqb/giphy.gif" width="220"/>
